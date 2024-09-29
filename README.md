@@ -36,5 +36,3 @@ Throughout this project, I have tailored my cover letter to emphasize my experie
 3. Continue expanding my skills, particularly within React and the fintech sector.
 
 ---
-
-This README is tailored to reflect your personal involvement in this project. Let me know if you'd like any changes!
