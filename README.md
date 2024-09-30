@@ -1,6 +1,6 @@
 ---
 
-# README: Crafting My Custom Cover Letter for a Junior React Developer Role
+# Crafting My Custom Cover Letter for a Junior React Developer Role
 
 ## Project Overview
 
@@ -15,7 +15,7 @@ This project is focused on creating a compelling cover letter for the Junior Rea
 ## Links
 
 - [Cover Letter](https://docs.google.com/document/d/1vEccpNgGBNtvvsqxMJLl_ANf3m4gzx8ZbEplmQ-ngxk/edit?usp=sharing)
-- [Resume](https://docs.google.com/document/d/1vEccpNgGBNtvvsqxMJLl_ANf3m4gzx8ZbEplmQ-ngxk/edit?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1S1k9OgXwc0xCD6dAdgmJZssFEDwQ0c4f/view?usp=sharing)
 
 ## Job Details
 
